@@ -1,4 +1,3 @@
-# UI
 
 ## Webpack
 
@@ -15,7 +14,9 @@
 - [Introduction to React.js](http://youtu.be/XxVg_s8xAms)
 - [Tutorial](http://facebook.github.io/react/docs/tutorial.html)
 
-## ClojureScript
+## Cutting Edge
+
+### ClojureScript
 
 - [ClojureScript Rationale](https://github.com/clojure/clojurescript/wiki/Rationale)
 - [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
@@ -26,9 +27,9 @@
 - [Translations from JavaScript](http://himera.herokuapp.com/index.html)
 - [Light Table ClojureScript Tutorial](https://github.com/swannodette/lt-cljs-tutorial)
 - [Om Tutorial](https://github.com/swannodette/om/wiki/Basic-Tutorial)
+ 
 
-        
-## Typescript
+### Typescript
 
 - [Spec](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
 
