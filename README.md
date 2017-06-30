@@ -35,3 +35,8 @@
 
 - [Spec](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
 
+### PureScript
+
+### Elm
+
+
