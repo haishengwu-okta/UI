@@ -9,11 +9,12 @@
 
 - [awesome react](https://github.com/enaqx/awesome-react)
 - [Be Predictable, Not Correct](http://www.confreaks.com/videos/3221-mwjs-be-predictable-not-correct)
-- [React: Rethinking Best Practices](http://youtu.be/DgVS-zXgMTk)
-- [Why React](http://facebook.github.io/react/docs/why-react.html)
-- [Getting Started](http://facebook.github.io/react/docs/getting-started.html)
-- [Introduction to React.js](http://youtu.be/XxVg_s8xAms)
-- [Tutorial](http://facebook.github.io/react/docs/tutorial.html)
+- [Video - React: Rethinking Best Practices](http://youtu.be/DgVS-zXgMTk)
+- [Video - Introduction to React.js](http://youtu.be/XxVg_s8xAms)
+- [Why React @ Facebook](http://facebook.github.io/react/docs/why-react.html)
+- [Getting Started @ Facebook](http://facebook.github.io/react/docs/getting-started.html)
+- [Tutorial @ Facebook](http://facebook.github.io/react/docs/tutorial.html)
+- [Learn React online](https://reactarmory.com/)
 
 ## Cutting Edge
 
