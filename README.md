@@ -23,7 +23,7 @@
 ### ClojureScript
 
 - [ClojureScript Rationale](https://github.com/clojure/clojurescript/wiki/Rationale)
-- [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
+- [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs)
 - [Clojure Rationale](http://clojure.org/rationale)
 - [Why Clojure?](http://youtu.be/alMbUJneFn0")
 - [Beating the Averages](http://www.paulgraham.com/avg.html)
