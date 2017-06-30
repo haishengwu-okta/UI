@@ -1,4 +1,10 @@
 
+## ES6
+
+- https://github.com/DrkSephy/es6-cheatsheet
+- https://ponyfoo.com/articles/tc39-ecmascript-proposals-future-of-javascript
+
+
 ## Webpack
 
 - https://github.com/petehunt/webpack-howto
