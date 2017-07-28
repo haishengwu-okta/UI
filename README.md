@@ -22,6 +22,10 @@
 - [Tutorial @ Facebook](http://facebook.github.io/react/docs/tutorial.html)
 - [Learn React online](https://reactarmory.com/)
 
+## Redux
+
+- [redux-implementing-store-from-scratch](https://egghead.io/lessons/javascript-redux-implementing-store-from-scratch)
+
 ## MVC
 
 ## Cutting Edge
