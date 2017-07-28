@@ -24,7 +24,7 @@
 
 ## Redux
 
-- [redux-implementing-store-from-scratch](https://egghead.io/lessons/javascript-redux-implementing-store-from-scratch)
+- [write-redux-from-scratch](https://egghead.io/courses/getting-started-with-redux)
 
 ## MVC
 
