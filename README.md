@@ -31,6 +31,15 @@
 
 ## Cutting Edge
 
+### PureScript
+  - [Github repo](https://github.com/purescript/purescript)
+
+### Elm
+
+### Typescript
+
+- [Spec](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
+
 ### ClojureScript
 
 - [ClojureScript Rationale](https://github.com/clojure/clojurescript/wiki/Rationale)
@@ -43,13 +52,3 @@
 - [Light Table ClojureScript Tutorial](https://github.com/swannodette/lt-cljs-tutorial)
 - [Om Tutorial](https://github.com/swannodette/om/wiki/Basic-Tutorial)
  
-
-### Typescript
-
-- [Spec](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
-
-### PureScript
-
-### Elm
-
-
