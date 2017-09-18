@@ -21,6 +21,7 @@
 - [Getting Started @ Facebook](http://facebook.github.io/react/docs/getting-started.html)
 - [Tutorial @ Facebook](http://facebook.github.io/react/docs/tutorial.html)
 - [Learn React online](https://reactarmory.com/)
+- [Fundamental React Concepts](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
 
 ## Redux
 
