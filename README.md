@@ -52,3 +52,6 @@
 - [Light Table ClojureScript Tutorial](https://github.com/swannodette/lt-cljs-tutorial)
 - [Om Tutorial](https://github.com/swannodette/om/wiki/Basic-Tutorial)
  
+### Misc
+
+- [Benchmarks Frontend FP Libraries](https://medium.com/@saurabhnanda/benchmarks-fp-languages-libraries-for-front-end-development-a11af0542f7e)
